@@ -1,14 +1,14 @@
-##Author
+## Author
 Imran Qureshi
 
 ## Description
 A simple spring boot application with POST and GET endpoints to create and retrieve a customer using H2 in-memory database.
 
-##Built with
+## Built with
 jdk-11.0.2
 Spring Boot v2.6.4
 
-##Pre-requisite
+## Pre-requisite
 Create a database file called myh2.mv.db in your user root folder. 
 
 ##H2 console:
